@@ -24,8 +24,5 @@ See the [blog archives](blog) for a more complete list.
 :maxdepth: 2
 :hidden:
 about
-projects
-publications
-talks
 blog
 ```

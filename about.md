@@ -57,8 +57,6 @@ Here's some more "official" CV-style info, if that's what you're looking for.
 * M.S. in Neuroscience, Tulane University, 2010
 * Ph.D. in Neuroscience, University of California at Berkeley, 2017
 
-If you want a hard-copy CV, you can find a {download}`reasonably up-to-date CV here </_static/cv.pdf>`.
-
 ## About this website
 
 This is an experiment in hosting my personal website and blog via Sphinx extensions instead of using Jekyll. It uses the [pydata sphinx theme](https://pydata-sphinx-theme.readthedocs.io/) along with [ablog](https://ablog.readthedocs.io/) for blogging, and the [myst-parser](https://myst-parser.readthedocs.io/en/latest/) and [myst-nb](https://myst-nb.readthedocs.io/) packages for writing posts in Markdown and Jupyter Notebooks.
