@@ -66,9 +66,6 @@ html_extra_path = ["feed.xml"]
 html_sidebars = {
     "index": ["hello.html"],
     "about": ["hello.html"],
-    "publications": ["hello.html"],
-    "projects": ["hello.html"],
-    "talks": ["hello.html"],
     "posts/**": ['postcard.html', 'recentposts.html', 'archives.html'],
     "blog": ['tagcloud.html', 'archives.html'],
     "blog/**": ['postcard.html', 'recentposts.html', 'archives.html']
