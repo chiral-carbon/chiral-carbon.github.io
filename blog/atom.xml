@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://chiral-carbon.github.io</id>
   <title>musings of a hermit crab</title>
-  <updated>2021-06-10T01:01:44.877071+00:00</updated>
+  <updated>2021-06-10T01:13:58.463020+00:00</updated>
   <link href="https://chiral-carbon.github.io"/>
   <link href="https://chiral-carbon.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.19">ABlog</generator>
   <entry>
-    <id>https://chiral-carbon.github.io/posts/2020/intro-post/</id>
+    <id>https://chiral-carbon.github.io/posts/2021/intro-post/</id>
     <title>Keeping It Simple</title>
     <updated>2021-06-10T00:00:00+00:00</updated>
     <author>
       <name>Abhipsha Das</name>
     </author>
-    <link href="https://chiral-carbon.github.io/posts/2020/intro-post/" rel="alternate"/>
+    <link href="https://chiral-carbon.github.io/posts/2021/intro-post/" rel="alternate"/>
     <category term="welcome!" label="welcome!"/>
     <published>2021-06-10T00:00:00+00:00</published>
   </entry>
