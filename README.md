@@ -1,2 +1,2 @@
 # About
-My personal blog. Can only that I don't abandon this idea (again).
+My personal blog. Can only hope that I don't abandon this idea (again).
