@@ -4,7 +4,7 @@ date: 2021-06-10
 tags: welcome!
 ---
 
-# 
+# Keeping It Simple
 
 It should come as no surprise to anyone that writing about oneself is a conspicuously difficult thing to no matter how facile it may seem on surface. Yet by a stroke of (incredibly good) luck here I am, doing a self-introduction online despite my unreasonable aversion to being perceived, as ludicrous as that may sound.
 
