@@ -7,6 +7,6 @@ I started playing the violin recently, and though I sound just a little bit bett
 
 ## About this website
 
-This website is heavily (almost entirely) inspired by [Chris Holdgraf's personal website](), though I plan to play around with the style if I ever figure out how CSS works. 
+This website is heavily (almost entirely) inspired by [Chris Holdgraf's personal website](https://predictablynoisy.com/), though I plan to play around with the style if I ever figure out how CSS works. 
 
 It uses the [pydata sphinx theme](https://pydata-sphinx-theme.readthedocs.io/) along with [ablog](https://ablog.readthedocs.io/) for blogging, and the [myst-parser](https://myst-parser.readthedocs.io/en/latest/) and [myst-nb](https://myst-nb.readthedocs.io/) packages for writing posts in Markdown and Jupyter Notebooks.
