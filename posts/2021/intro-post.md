@@ -6,7 +6,7 @@ tags: welcome!
 
 # Keeping It Simple
 
-It should come as no surprise to anyone that writing about oneself is a conspicuously difficult thing to no matter how facile it may seem on surface. Yet by a stroke of (incredibly good) luck here I am, doing a self-introduction online despite my unreasonable aversion to being perceived, as ludicrous as that may sound.
+It should come as no surprise to anyone that writing about oneself is a conspicuously difficult thing to do no matter how facile it may seem on surface. Yet by a stroke of (incredibly good) luck here I am, doing a self-introduction online despite my unreasonable aversion to being perceived, as ludicrous as that may sound.
 
 There are many things, however, that I could say about myself. I am easily distracted, largely indecisive and interested in pursuing too many varied things. I have a propensity to vacillate between having an outburst of inititative and doing nothing at all. I prefer cold weather to hot and I really hope to be able to play Paganini's Caprices on the violin one day. I do not understand a thing about web development and am endlessly fascinated (but woefully underinformed) by artificial intelligence and its applications. I love learning languages and learning about languages, and I am perpetually trying to understand my relative position and privilege in the world. I would like to read more history, politics and visit every corner of the world, and feel happy to just *be* - without having to attach the worth of my life to what I accomplish or don't accomplish.
 
