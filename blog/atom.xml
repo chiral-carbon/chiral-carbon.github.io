@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://chiral-carbon.github.io</id>
   <title>musings of a hermit crab</title>
-  <updated>2021-08-13T06:33:56.894005+00:00</updated>
+  <updated>2021-08-13T07:06:04.541102+00:00</updated>
   <link href="https://chiral-carbon.github.io"/>
   <link href="https://chiral-carbon.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.19">ABlog</generator>
@@ -40,7 +40,7 @@ Now what should people who really do want to be proactive in such a manner but a
   </entry>
   <entry>
     <id>https://chiral-carbon.github.io/posts/2021/week-5/</id>
-    <title>Commits, commits and more commits</title>
+    <title>Commits, Commits and More Commits</title>
     <updated>2021-07-30T00:00:00+00:00</updated>
     <author>
       <name>Abhipsha Das</name>
@@ -60,7 +60,11 @@ Now what should people who really do want to be proactive in such a manner but a
     <author>
       <name>Abhipsha Das</name>
     </author>
+    <content type="html">&lt;p&gt;It is perhaps one of my personality traits to not be able to follow any timeline that I have set up for myself, and this time is no different. I could easily become a raging cynic here but that would be too painful and boring to read, so I will refrain from that since I do not want to scare you away!&lt;/p&gt;
+&lt;p&gt;My original timeline for the Outreachy internship with PyMC3 looked like this:&lt;/p&gt;
+</content>
     <link href="https://chiral-carbon.github.io/posts/2021/week-7/" rel="alternate"/>
+    <summary>It is perhaps one of my personality traits to not be able to follow any timeline that I have set up for myself, and this time is no different. I could easily become a raging cynic here but that would be too painful and boring to read, so I will refrain from that since I do not want to scare you away!My original timeline for the Outreachy internship with PyMC3 looked like this:</summary>
     <category term="expectations" label="expectations"/>
     <published>2021-08-12T00:00:00+00:00</published>
   </entry>
