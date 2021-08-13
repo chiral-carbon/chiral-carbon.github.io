@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://chiral-carbon.github.io</id>
   <title>musings of a hermit crab</title>
-  <updated>2021-08-13T05:31:14.615228+00:00</updated>
+  <updated>2021-08-13T06:33:56.894005+00:00</updated>
   <link href="https://chiral-carbon.github.io"/>
   <link href="https://chiral-carbon.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.19">ABlog</generator>
@@ -41,13 +41,17 @@ Now what should people who really do want to be proactive in such a manner but a
   <entry>
     <id>https://chiral-carbon.github.io/posts/2021/week-5/</id>
     <title>Commits, commits and more commits</title>
-    <updated>2021-07-20T00:00:00+00:00</updated>
+    <updated>2021-07-30T00:00:00+00:00</updated>
     <author>
       <name>Abhipsha Das</name>
     </author>
+    <content type="html">&lt;p&gt;It’s been a few months since I began contributing to &lt;a class="reference external" href="https://github.com/pymc-devs/pymc-examples"&gt;pymc-examples&lt;/a&gt; and the experience so far has been enlightening. For someone who previously could only covetously look upon my fellow classmates as they contributed away to open source projects while I was still struggling with git and the jargon used in a project, I feel like I have come a relatively long way, thanks in no small part to the PyMC community members. I have gained some understanding of Bayesian inference and statistical concepts while updating the example notebooks, which are a set of jupyter notebooks hosted for the reference of newcomers trying to do probabilistic programming with PyMC3.&lt;/p&gt;
+&lt;p&gt;For some context, Bayesian inference means drawing statistical inferences using &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Bayes%27_theorem"&gt;Bayes’ theorem&lt;/a&gt; to update the probability of a premise/hypothesis as and when we obtain more evidence for our defined premise. We define a statistical model for our data based on which a likelihood function and prior probability is derived, and based on these two, a posterior probability is obtained. It is a common and convenient way to update our hypothesis inside a statistical framework. So the steps of Bayesian inference can be summarized as: get observed data, build a probabilistic model to represent the data, specify prior distributions and apply Bayes’ theorem for inference and updating our hypothesis.&lt;/p&gt;
+</content>
     <link href="https://chiral-carbon.github.io/posts/2021/week-5/" rel="alternate"/>
+    <summary>It’s been a few months since I began contributing to pymc-examples and the experience so far has been enlightening. For someone who previously could only covetously look upon my fellow classmates as they contributed away to open source projects while I was still struggling with git and the jargon used in a project, I feel like I have come a relatively long way, thanks in no small part to the PyMC community members. I have gained some understanding of Bayesian inference and statistical concepts while updating the example notebooks, which are a set of jupyter notebooks hosted for the reference of newcomers trying to do probabilistic programming with PyMC3.For some context, Bayesian inference means drawing statistical inferences using Bayes’ theorem to update the probability of a premise/hypothesis as and when we obtain more evidence for our defined premise. We define a statistical model for our data based on which a likelihood function and prior probability is derived, and based on these two, a posterior probability is obtained. It is a common and convenient way to update our hypothesis inside a statistical framework. So the steps of Bayesian inference can be summarized as: get observed data, build a probabilistic model to represent the data, specify prior distributions and apply Bayes’ theorem for inference and updating our hypothesis.</summary>
     <category term="pymc" label="pymc"/>
-    <published>2021-07-20T00:00:00+00:00</published>
+    <published>2021-07-30T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://chiral-carbon.github.io/posts/2021/week-7/</id>
