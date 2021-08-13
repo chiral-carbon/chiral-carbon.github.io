@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://chiral-carbon.github.io</id>
   <title>musings of a hermit crab</title>
-  <updated>2021-06-15T10:14:13.671096+00:00</updated>
+  <updated>2021-08-13T05:31:14.615228+00:00</updated>
   <link href="https://chiral-carbon.github.io"/>
   <link href="https://chiral-carbon.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.19">ABlog</generator>
@@ -20,5 +20,44 @@
     <summary>It should come as no surprise to anyone that writing about oneself is a conspicuously difficult thing to do no matter how facile it may seem on surface. Yet by a stroke of (incredibly good) luck here I am, doing a self-introduction online despite my unreasonable aversion to being perceived, as ludicrous as that may sound.There are many things, however, that I could say about myself. I am easily distracted, largely indecisive and interested in pursuing too many varied things. I have a propensity to vacillate between having an outburst of inititative and doing nothing at all. I prefer cold weather to hot and I really hope to be able to play Paganini’s Caprices on the violin one day. I do not understand a thing about web development and am endlessly fascinated (but woefully underinformed) by artificial intelligence and its applications. I love learning languages and learning about languages, and I am perpetually trying to understand my relative position and privilege in the world. I would like to read more history, politics and visit every corner of the world, and feel happy to just be - without having to attach the worth of my life to what I accomplish or don’t accomplish.</summary>
     <category term="welcome!" label="welcome!"/>
     <published>2021-06-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://chiral-carbon.github.io/posts/2021/week-3/</id>
+    <title>Everyone Struggles, But Everyone Believes They Are The Only One Struggling</title>
+    <updated>2021-07-18T00:00:00+00:00</updated>
+    <author>
+      <name>Abhipsha Das</name>
+    </author>
+    <content type="html">&lt;p&gt;While I have had a very curious interest in FOSS since almost the beginning of my time at university, and tried to follow it up by looking at projects that intrigued me, I was never able to contribute to anything largely due to my inability to ask (read: fear of asking) questions like what a beginner like me could do. I often did not know how to structure my thoughts and questions in a way that the maintainers understood - beyond the initial “hey! I am a beginner in xyz and would love to work on this project” - because what I probably wished for is someone to assign me a task and list out all the prerequisites I’d need to fulfill it.&lt;/p&gt;
+&lt;p&gt;Since anyone reading this will know that that is not how open source exactly works - not that maintainers don’t help you out, quite the opposite, but delegating unresolved issues to newcomers like a teacher would do to their students is not how it goes. Any contributor needs to be more proactive in claiming issues, recognizing bugs, and approaching the project as a whole.
+Now what should people who really do want to be proactive in such a manner but actually feel lost and clueless do? I was one of them, and I can say that I continue to be like that. When I began my journey with Outreachy through the contribution period, after making sure that I had some interest in the PyMC project, I claimed issues without thinking much at all. I was encouraged by my mentor to scan through the many many open issues and chose the ones that seemed the simplest, and haven’t stopped learning and working since.&lt;/p&gt;
+</content>
+    <link href="https://chiral-carbon.github.io/posts/2021/week-3/" rel="alternate"/>
+    <summary>While I have had a very curious interest in FOSS since almost the beginning of my time at university, and tried to follow it up by looking at projects that intrigued me, I was never able to contribute to anything largely due to my inability to ask (read: fear of asking) questions like what a beginner like me could do. I often did not know how to structure my thoughts and questions in a way that the maintainers understood - beyond the initial “hey! I am a beginner in xyz and would love to work on this project” - because what I probably wished for is someone to assign me a task and list out all the prerequisites I’d need to fulfill it.Since anyone reading this will know that that is not how open source exactly works - not that maintainers don’t help you out, quite the opposite, but delegating unresolved issues to newcomers like a teacher would do to their students is not how it goes. Any contributor needs to be more proactive in claiming issues, recognizing bugs, and approaching the project as a whole.
+Now what should people who really do want to be proactive in such a manner but actually feel lost and clueless do? I was one of them, and I can say that I continue to be like that. When I began my journey with Outreachy through the contribution period, after making sure that I had some interest in the PyMC project, I claimed issues without thinking much at all. I was encouraged by my mentor to scan through the many many open issues and chose the ones that seemed the simplest, and haven’t stopped learning and working since.</summary>
+    <category term="struggles" label="struggles"/>
+    <published>2021-07-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://chiral-carbon.github.io/posts/2021/week-5/</id>
+    <title>Commits, commits and more commits</title>
+    <updated>2021-07-20T00:00:00+00:00</updated>
+    <author>
+      <name>Abhipsha Das</name>
+    </author>
+    <link href="https://chiral-carbon.github.io/posts/2021/week-5/" rel="alternate"/>
+    <category term="pymc" label="pymc"/>
+    <published>2021-07-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://chiral-carbon.github.io/posts/2021/week-7/</id>
+    <title>Modifying My Expectations</title>
+    <updated>2021-08-12T00:00:00+00:00</updated>
+    <author>
+      <name>Abhipsha Das</name>
+    </author>
+    <link href="https://chiral-carbon.github.io/posts/2021/week-7/" rel="alternate"/>
+    <category term="expectations" label="expectations"/>
+    <published>2021-08-12T00:00:00+00:00</published>
   </entry>
 </feed>
