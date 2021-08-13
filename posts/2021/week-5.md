@@ -4,7 +4,7 @@ date: 2021-07-30
 tags: pymc
 ---
 
-# Commits, commits and more commits
+# Commits, Commits and More Commits
 
 It’s been a few months since I began contributing to [pymc-examples](https://github.com/pymc-devs/pymc-examples) and the experience so far has been enlightening. For someone who previously could only covetously look upon my fellow classmates as they contributed away to open source projects while I was still struggling with git and the jargon used in a project, I feel like I have come a relatively long way, thanks in no small part to the PyMC community members. I have gained some understanding of Bayesian inference and statistical concepts while updating the example notebooks, which are a set of jupyter notebooks hosted for the reference of newcomers trying to do probabilistic programming with PyMC3. 
 
