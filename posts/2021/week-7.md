@@ -29,7 +29,7 @@ Aug 16 - Aug 24: Publish a blog post about the project, write additional usage g
 
 ```
 
-*Pretttttty ambitious*, right? So where did it all go wrong?
+*Pretty ambitious*, right? So where did it all go wrong?
 
 I started a week late from my fellow Outreachy May’21 interns, due to the engagements I had with my previous workplace, and a few weeks after beginning I had to take extensions - come to a part-time arrangement and also take an entire week off due to covid-19 descending upon my family, so now I am running a whole month behind others.
 
