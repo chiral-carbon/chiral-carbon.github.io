@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://chiral-carbon.github.io</id>
   <title>musings of a hermit crab</title>
-  <updated>2021-08-13T19:53:44.996346+00:00</updated>
+  <updated>2021-09-09T12:34:05.546055+00:00</updated>
   <link href="https://chiral-carbon.github.io"/>
   <link href="https://chiral-carbon.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.19">ABlog</generator>
@@ -67,5 +67,20 @@ Now what should people who really do want to be proactive in such a manner but a
     <summary>It is perhaps one of my personality traits to not be able to follow any timeline that I have set up for myself, and this time is no different. I could easily become a raging cynic here but that would be too painful and boring to read, so I will refrain from that since I do not want to scare you away!My original timeline for the Outreachy internship with PyMC3 looked like this:</summary>
     <category term="expectations" label="expectations"/>
     <published>2021-08-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://chiral-carbon.github.io/posts/2021/week-9/</id>
+    <title>Career and life goals, basically</title>
+    <updated>2021-08-31T00:00:00+00:00</updated>
+    <author>
+      <name>Abhipsha Das</name>
+    </author>
+    <content type="html">&lt;p&gt;Thinking about my future career is as daunting to me as any person in their 20s - laden with anxiety, uncertainty and still with a lot of optimism. Most of the times the anxiety part of it wins though and I am left with a lot of hours of overthinking. And the fact that applications and contacting people are such stressful processes hardly helps the matter.&lt;/p&gt;
+&lt;p&gt;I had always wanted to have a career in academia and pursue research, and have from the beginning of my undergrad been interested in machine learning. It is a vast field in itself and has so many cross-discipline applications that it sometimes leaves me confused since I have no idea what I would like the most to study. This made me wonder about taking up jobs or internships to rake up some experience and gain more of a nuanced understanding of the industry, but while they have been invaluable experiences, I am nowhere near sorted out in my head.&lt;/p&gt;
+</content>
+    <link href="https://chiral-carbon.github.io/posts/2021/week-9/" rel="alternate"/>
+    <summary>Thinking about my future career is as daunting to me as any person in their 20s - laden with anxiety, uncertainty and still with a lot of optimism. Most of the times the anxiety part of it wins though and I am left with a lot of hours of overthinking. And the fact that applications and contacting people are such stressful processes hardly helps the matter.I had always wanted to have a career in academia and pursue research, and have from the beginning of my undergrad been interested in machine learning. It is a vast field in itself and has so many cross-discipline applications that it sometimes leaves me confused since I have no idea what I would like the most to study. This made me wonder about taking up jobs or internships to rake up some experience and gain more of a nuanced understanding of the industry, but while they have been invaluable experiences, I am nowhere near sorted out in my head.</summary>
+    <category term="goals" label="goals"/>
+    <published>2021-08-31T00:00:00+00:00</published>
   </entry>
 </feed>
